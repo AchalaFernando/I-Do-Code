@@ -1,0 +1,9 @@
+
+fun main(args: Array<String>) {
+    println("Hello, World!")
+
+val name = "Anne"
+val yearOfBirth = 2000
+val yearNow = 2020
+val message = "$name is ${yearNow - yearOfBirth} years old"
+}
